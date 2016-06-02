@@ -1,0 +1,322 @@
+Left Wall
+
+type:Obstacle; X:5; Y:5
+type:Obstacle; X:5; Y:20
+type:Obstacle; X:5; Y:35
+type:Obstacle; X:5; Y:50
+type:Obstacle; X:5; Y:65
+type:Obstacle; X:5; Y:80
+type:Obstacle; X:5; Y:95
+type:Obstacle; X:5; Y:110
+type:Obstacle; X:5; Y:125
+type:Obstacle; X:5; Y:140
+type:Obstacle; X:5; Y:155
+type:Obstacle; X:5; Y:170
+type:Obstacle; X:5; Y:185
+type:Obstacle; X:5; Y:200
+type:Obstacle; X:5; Y:215
+type:Obstacle; X:5; Y:230
+type:Obstacle; X:5; Y:245
+
+Player
+type:Player; X:35; Y:110
+
+Enemy
+type:Enemy; X:310; Y:110
+
+Upper Wall
+
+type:Obstacle; X:20; Y:5
+type:Obstacle; X:35; Y:5
+type:Obstacle; X:50; Y:5
+type:Obstacle; X:65; Y:5
+type:Obstacle; X:80; Y:5
+type:Obstacle; X:95; Y:5
+type:Obstacle; X:110; Y:5
+type:Obstacle; X:125; Y:5
+type:Obstacle; X:140; Y:5
+type:Obstacle; X:155; Y:5
+type:Obstacle; X:170; Y:5
+type:Obstacle; X:185; Y:5
+type:Obstacle; X:200; Y:5
+type:Obstacle; X:215; Y:5
+type:Obstacle; X:230; Y:5
+type:Obstacle; X:245; Y:5
+type:Obstacle; X:260; Y:5
+type:Obstacle; X:275; Y:5
+type:Obstacle; X:290; Y:5
+type:Obstacle; X:305; Y:5
+type:Obstacle; X:320; Y:5
+type:Obstacle; X:335; Y:5
+type:Obstacle; X:350; Y:5
+type:Obstacle; X:365; Y:5
+
+Right Wall
+
+type:Obstacle; X:365; Y:20
+type:Obstacle; X:365; Y:35
+type:Obstacle; X:365; Y:50
+type:Obstacle; X:365; Y:65
+type:Obstacle; X:365; Y:80
+type:Obstacle; X:365; Y:95
+type:Obstacle; X:365; Y:110
+type:Obstacle; X:365; Y:125
+type:Obstacle; X:365; Y:140
+type:Obstacle; X:365; Y:155
+type:Obstacle; X:365; Y:170
+type:Obstacle; X:365; Y:185
+type:Obstacle; X:365; Y:200
+type:Obstacle; X:365; Y:215
+type:Obstacle; X:365; Y:230
+type:Obstacle; X:365; Y:245
+
+Bottom Wall
+
+type:Obstacle; X:20; Y:245
+type:Obstacle; X:35; Y:245
+type:Obstacle; X:50; Y:245
+type:Obstacle; X:65; Y:245
+type:Obstacle; X:80; Y:245
+type:Obstacle; X:95; Y:245
+type:Obstacle; X:110; Y:245
+type:Obstacle; X:125; Y:245
+type:Obstacle; X:140; Y:245
+type:Obstacle; X:155; Y:245
+type:Obstacle; X:170; Y:245
+type:Obstacle; X:185; Y:245
+type:Obstacle; X:200; Y:245
+type:Obstacle; X:215; Y:245
+type:Obstacle; X:230; Y:245
+type:Obstacle; X:245; Y:245
+type:Obstacle; X:260; Y:245
+type:Obstacle; X:275; Y:245
+type:Obstacle; X:290; Y:245
+type:Obstacle; X:305; Y:245
+type:Obstacle; X:320; Y:245
+type:Obstacle; X:335; Y:245
+type:Obstacle; X:350; Y:245
+type:Obstacle; X:365; Y:245
+
+LeftSide of LeftUp Obstacle
+
+type:Obstacle; X:35; Y:35
+type:Obstacle; X:35; Y:50
+type:Obstacle; X:35; Y:65
+type:Obstacle; X:35; Y:80
+type:Obstacle; X:35; Y:95
+
+Bottom of LeftUp Obstacle
+
+type:Obstacle; X:50; Y:95
+type:Obstacle; X:65; Y:95
+type:Obstacle; X:80; Y:95
+type:Obstacle; X:95; Y:95
+type:Obstacle; X:110; Y:95
+type:Obstacle; X:125; Y:95
+type:Obstacle; X:140; Y:95
+
+RightSide of LeftUp Obstacle
+
+type:Obstacle; X:140; Y:80
+type:Obstacle; X:140; Y:65
+type:Obstacle; X:140; Y:50
+type:Obstacle; X:140; Y:35
+
+Up of LeftUp Obstacle
+
+type:Obstacle; X:125; Y:35
+type:Obstacle; X:110; Y:35
+type:Obstacle; X:95; Y:35
+type:Obstacle; X:80; Y:35
+type:Obstacle; X:65; Y:35
+type:Obstacle; X:50; Y:35
+
+LeftSide of RightUp Obstacle
+
+type:Obstacle; X:230; Y:35
+type:Obstacle; X:230; Y:50
+type:Obstacle; X:230; Y:65
+type:Obstacle; X:230; Y:80
+type:Obstacle; X:230; Y:95
+
+Bottom of RightUp Obstacle
+
+type:Obstacle; X:245; Y:95
+type:Obstacle; X:260; Y:95
+type:Obstacle; X:275; Y:95
+type:Obstacle; X:290; Y:95
+type:Obstacle; X:305; Y:95
+type:Obstacle; X:320; Y:95
+type:Obstacle; X:335; Y:95
+
+RightSide of RightUp Obstacle
+
+type:Obstacle; X:335; Y:80
+type:Obstacle; X:335; Y:65
+type:Obstacle; X:335; Y:50
+type:Obstacle; X:335; Y:35
+
+Up of RightUp Obstacle
+
+type:Obstacle; X:320; Y:35
+type:Obstacle; X:305; Y:35
+type:Obstacle; X:290; Y:35
+type:Obstacle; X:275; Y:35
+type:Obstacle; X:260; Y:35
+type:Obstacle; X:245; Y:35
+
+LeftSide of LeftBottom Obstacle
+
+type:Obstacle; X:35; Y:215
+type:Obstacle; X:35; Y:200
+type:Obstacle; X:35; Y:185
+type:Obstacle; X:35; Y:170
+type:Obstacle; X:35; Y:155
+
+Bottom of LeftBottom Obstacle
+
+type:Obstacle; X:50; Y:215
+type:Obstacle; X:65; Y:215
+type:Obstacle; X:80; Y:215
+type:Obstacle; X:95; Y:215
+type:Obstacle; X:110; Y:215
+type:Obstacle; X:125; Y:215
+type:Obstacle; X:140; Y:215
+
+RightSide of LeftBottom Obstacle
+
+type:Obstacle; X:140; Y:200
+type:Obstacle; X:140; Y:185
+type:Obstacle; X:140; Y:170
+type:Obstacle; X:140; Y:155
+
+Up of LeftBottom Obstacle
+
+type:Obstacle; X:125; Y:155
+type:Obstacle; X:110; Y:155
+type:Obstacle; X:95; Y:155
+type:Obstacle; X:80; Y:155
+type:Obstacle; X:65; Y:155
+type:Obstacle; X:50; Y:155
+
+LeftSide of RightBottom Obstacle
+
+type:Obstacle; X:230; Y:215
+type:Obstacle; X:230; Y:200
+type:Obstacle; X:230; Y:185
+type:Obstacle; X:230; Y:170
+type:Obstacle; X:230; Y:155
+
+Bottom of RightBottom Obstacle
+
+type:Obstacle; X:245; Y:215
+type:Obstacle; X:260; Y:215
+type:Obstacle; X:275; Y:215
+type:Obstacle; X:290; Y:215
+type:Obstacle; X:305; Y:215
+type:Obstacle; X:320; Y:215
+type:Obstacle; X:335; Y:215
+
+RightSide of RightBottom Obstacle
+
+type:Obstacle; X:335; Y:200
+type:Obstacle; X:335; Y:185
+type:Obstacle; X:335; Y:170
+type:Obstacle; X:335; Y:155
+
+Up of RightBottom Obstacle
+
+type:Obstacle; X:320; Y:155
+type:Obstacle; X:305; Y:155
+type:Obstacle; X:290; Y:155
+type:Obstacle; X:275; Y:155
+type:Obstacle; X:260; Y:155
+type:Obstacle; X:245; Y:155
+
+MiddleLeft Obstacle
+
+type:Obstacle; X:35; Y:125
+type:Obstacle; X:50; Y:125
+type:Obstacle; X:65; Y:125
+type:Obstacle; X:80; Y:125
+type:Obstacle; X:95; Y:125
+type:Obstacle; X:110; Y:125
+type:Obstacle; X:125; Y:125
+type:Obstacle; X:140; Y:125
+
+MiddleRight Obstacle
+
+type:Obstacle; X:230; Y:125
+type:Obstacle; X:245; Y:125
+type:Obstacle; X:260; Y:125
+type:Obstacle; X:275; Y:125
+type:Obstacle; X:290; Y:125
+type:Obstacle; X:305; Y:125
+type:Obstacle; X:320; Y:125
+type:Obstacle; X:335; Y:125
+
+CenterObstacle
+
+type:Obstacle; X:170; Y:125
+type:Obstacle; X:200; Y:125
+
+LeftSide of MiddleUp Obstacle
+
+type:Obstacle; X:170; Y:35
+type:Obstacle; X:170; Y:50
+type:Obstacle; X:170; Y:65
+type:Obstacle; X:170; Y:80
+type:Obstacle; X:170; Y:95
+
+BottomSide of MiddleUp Obstacle
+
+type:Obstacle; X:185; Y:95
+type:Obstacle; X:200; Y:95
+
+RightSide of MiddleUp Obstacle
+
+type:Obstacle; X:200; Y:80
+type:Obstacle; X:200; Y:65
+type:Obstacle; X:200; Y:50
+type:Obstacle; X:200; Y:35
+
+UpperSide of MiddleUp Obstacle
+
+type:Obstacle; X:185; Y:35
+
+LeftSide of MiddleBottom Obstacle
+
+type:Obstacle; X:170; Y:155
+type:Obstacle; X:170; Y:170
+type:Obstacle; X:170; Y:185
+type:Obstacle; X:170; Y:200
+type:Obstacle; X:170; Y:215
+
+BottomSide of MiddleBottom Obstacle
+
+type:Obstacle; X:185; Y:215
+type:Obstacle; X:200; Y:215
+
+RightSide of MiddleBottom Obstacle
+
+type:Obstacle; X:200; Y:200
+type:Obstacle; X:200; Y:185
+type:Obstacle; X:200; Y:170
+type:Obstacle; X:200; Y:155
+
+UpperSide of MiddleBottom Obstacle
+
+type:Obstacle; X:185; Y:155
+
+
+
+
+
+
+
+
+
+
+
+
+
